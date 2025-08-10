@@ -189,8 +189,8 @@ def reset_flow():
 
 def ensure_keys():
     # Ensure widget-backed keys exist even after reruns/reloads
-    st.session_state.setdefault("co1", "Alpha Corp")
-    st.session_state.setdefault("co2", "Beta Labs")
+    st.session_state.setdefault("co1", "Centara")
+    st.session_state.setdefault("co2", "Iberry")
 
 
 if "stage" not in st.session_state:
