@@ -1,0 +1,281 @@
+index,Category,Subcategory,IsParent,Year,Value
+0,Revenues,Revenues,true,2015,NaN
+1,Revenues,Revenues from hotel operations,false,2015,8728.2
+2,Revenues,Revenues from food and beverage,false,2015,10094.5
+3,Revenues,Rental income,false,2015,114.6
+4,Revenues,Other Operating Income,false,2015,354
+5,Total Revenue,Total Revenue,true,2015,19291.3
+6,Total Revenue,Total Revenue Growth%,false,2015,NaN
+7,COGS,COGS,true,2015,NaN
+8,COGS,Cost of hotels operations,false,2015,-5607.4
+9,COGS,Cost of food and beverage,false,2015,-5459.1
+10,Total COGS,Total COGS,true,2015,-11066.5
+11,Total COGS,Gross Profit,false,2015,8224.8
+12,Total COGS,Gross Profit Margin%,false,2015,0.4263
+13,Total COGS,Selling Expenses,false,2015,-840.7
+14,Total COGS,Administrative Expenses,false,2015,-4748.3
+15,Total COGS,Other Operating Expenses,false,2015,-
+16,Operating Profit (EBITDA),Operating Profit (EBITDA),true,2015,2635.8
+17,Operating Profit (EBITDA),Op. Margin%,false,2015,0.1366
+18,Operating Profit (EBITDA),Investment Income (Loss) Under Equity Method,false,2015,-73.6
+19,Operating Profit (EBITDA),Financial Costs,false,2015,-379.5
+20,Operating Profit (EBITDA),Financial Income,false,2015,-
+21,Profit Before Income Taxes (EBIT),Profit Before Income Taxes (EBIT),true,2015,2182.7
+22,Profit Before Income Taxes (EBIT),EBIT Margin%,false,2015,0.1131
+23,Profit Before Income Taxes (EBIT),Income Tax Expenses ,false,2015,-431
+24,Net Income,Net Income,true,2015,1751.7
+25,Net Income,Net Income Margin,false,2015,0.0908
+26,Net Income,EPS,false,2015,1.3
+27,Net Income,EPS Growth,false,2015,NaN
+28,Revenues,Revenues,true,2016,NaN
+29,Revenues,Revenues from hotel operations,false,2016,8919.1
+30,Revenues,Revenues from food and beverage,false,2016,10529.1
+31,Revenues,Rental income,false,2016,114.6
+32,Revenues,Other Operating Income,false,2016,343.4
+33,Total Revenue,Total Revenue,true,2016,19906.2
+34,Total Revenue,Total Revenue Growth%,false,2016,0.0319
+35,COGS,COGS,true,2016,NaN
+36,COGS,Cost of hotels operations,false,2016,-5744.2
+37,COGS,Cost of food and beverage,false,2016,-5711.2
+38,Total COGS,Total COGS,true,2016,-11455.4
+39,Total COGS,Gross Profit,false,2016,8450.8
+40,Total COGS,Gross Profit Margin%,false,2016,0.42450000000000004
+41,Total COGS,Selling Expenses,false,2016,-822.8
+42,Total COGS,Administrative Expenses,false,2016,-4992.8
+43,Total COGS,Other Operating Expenses,false,2016,-
+44,Operating Profit (EBITDA),Operating Profit (EBITDA),true,2016,2635.2
+45,Operating Profit (EBITDA),Op. Margin%,false,2016,0.1324
+46,Operating Profit (EBITDA),Investment Income (Loss) Under Equity Method,false,2016,34
+47,Operating Profit (EBITDA),Financial Costs,false,2016,-298.5
+48,Operating Profit (EBITDA),Financial Income,false,2016,-
+49,Profit Before Income Taxes (EBIT),Profit Before Income Taxes (EBIT),true,2016,2370.7
+50,Profit Before Income Taxes (EBIT),EBIT Margin%,false,2016,0.1191
+51,Profit Before Income Taxes (EBIT),Income Tax Expenses ,false,2016,-414.5
+52,Net Income,Net Income,true,2016,1956.2
+53,Net Income,Net Income Margin,false,2016,0.0983
+54,Net Income,EPS,false,2016,1.4
+55,Net Income,EPS Growth,false,2016,0.1167
+56,Revenues,Revenues,true,2017,NaN
+57,Revenues,Revenues from hotel operations,false,2017,8921.8
+58,Revenues,Revenues from food and beverage,false,2017,10892.6
+59,Revenues,Rental income,false,2017,114.6
+60,Revenues,Other Operating Income,false,2017,416.3
+61,Total Revenue,Total Revenue,true,2017,20345.3
+62,Total Revenue,Total Revenue Growth%,false,2017,0.022099999999999998
+63,COGS,COGS,true,2017,NaN
+64,COGS,Cost of hotels operations,false,2017,-5664.5
+65,COGS,Cost of food and beverage,false,2017,-5867.1
+66,Total COGS,Total COGS,true,2017,-11531.6
+67,Total COGS,Gross Profit,false,2017,8813.7
+68,Total COGS,Gross Profit Margin%,false,2017,0.43320000000000003
+69,Total COGS,Selling Expenses,false,2017,-766.1
+70,Total COGS,Administrative Expenses,false,2017,-5290.3
+71,Total COGS,Other Operating Expenses,false,2017,-
+72,Operating Profit (EBITDA),Operating Profit (EBITDA),true,2017,2757.3
+73,Operating Profit (EBITDA),Op. Margin%,false,2017,0.1355
+74,Operating Profit (EBITDA),Investment Income (Loss) Under Equity Method,false,2017,-34.5
+75,Operating Profit (EBITDA),Financial Costs,false,2017,-223.9
+76,Operating Profit (EBITDA),Financial Income,false,2017,-
+77,Profit Before Income Taxes (EBIT),Profit Before Income Taxes (EBIT),true,2017,2498.9
+78,Profit Before Income Taxes (EBIT),EBIT Margin%,false,2017,0.12279999999999999
+79,Profit Before Income Taxes (EBIT),Income Tax Expenses ,false,2017,-407.5
+80,Net Income,Net Income,true,2017,2091.4
+81,Net Income,Net Income Margin,false,2017,0.10279999999999999
+82,Net Income,EPS,false,2017,1.5
+83,Net Income,EPS Growth,false,2017,0.0691
+84,Revenues,Revenues,true,2018,NaN
+85,Revenues,Revenues from hotel operations,false,2018,9364
+86,Revenues,Revenues from food and beverage,false,2018,11899
+87,Revenues,Rental income,false,2018,114.6
+88,Revenues,Other Operating Income,false,2018,390.6
+89,Total Revenue,Total Revenue,true,2018,21768.2
+90,Total Revenue,Total Revenue Growth%,false,2018,0.0699
+91,COGS,COGS,true,2018,NaN
+92,COGS,Cost of hotels operations,false,2018,-5911.8
+93,COGS,Cost of food and beverage,false,2018,-6456.5
+94,Total COGS,Total COGS,true,2018,-12368.3
+95,Total COGS,Gross Profit,false,2018,9399.9
+96,Total COGS,Gross Profit Margin%,false,2018,0.4318
+97,Total COGS,Selling Expenses,false,2018,-851.3
+98,Total COGS,Administrative Expenses,false,2018,-5666.2
+99,Total COGS,Other Operating Expenses,false,2018,-
+100,Operating Profit (EBITDA),Operating Profit (EBITDA),true,2018,2882.4
+101,Operating Profit (EBITDA),Op. Margin%,false,2018,0.1324
+102,Operating Profit (EBITDA),Investment Income (Loss) Under Equity Method,false,2018,35.4
+103,Operating Profit (EBITDA),Financial Costs,false,2018,-204.6
+104,Operating Profit (EBITDA),Financial Income,false,2018,-
+105,Profit Before Income Taxes (EBIT),Profit Before Income Taxes (EBIT),true,2018,2713.2
+106,Profit Before Income Taxes (EBIT),EBIT Margin%,false,2018,0.1246
+107,Profit Before Income Taxes (EBIT),Income Tax Expenses ,false,2018,-438.8
+108,Net Income,Net Income,true,2018,2274.4
+109,Net Income,Net Income Margin,false,2018,0.1045
+110,Net Income,EPS,false,2018,1.7
+111,Net Income,EPS Growth,false,2018,0.0875
+112,Revenues,Revenues,true,2019,NaN
+113,Revenues,Revenues from hotel operations,false,2019,8438.6
+114,Revenues,Revenues from food and beverage,false,2019,12184.2
+115,Revenues,Rental income,false,2019,114.6
+116,Revenues,Other Operating Income,false,2019,471.9
+117,Total Revenue,Total Revenue,true,2019,21209.3
+118,Total Revenue,Total Revenue Growth%,false,2019,-0.025699999999999997
+119,COGS,COGS,true,2019,NaN
+120,COGS,Cost of hotels operations,false,2019,-5488.1
+121,COGS,Cost of food and beverage,false,2019,-6700.6
+122,Total COGS,Total COGS,true,2019,-12188.7
+123,Total COGS,Gross Profit,false,2019,9020.6
+124,Total COGS,Gross Profit Margin%,false,2019,0.4253
+125,Total COGS,Selling Expenses,false,2019,-845.8
+126,Total COGS,Administrative Expenses,false,2019,-5982
+127,Total COGS,Other Operating Expenses,false,2019,-
+128,Operating Profit (EBITDA),Operating Profit (EBITDA),true,2019,2192.8
+129,Operating Profit (EBITDA),Op. Margin%,false,2019,0.10339999999999999
+130,Operating Profit (EBITDA),Investment Income (Loss) Under Equity Method,false,2019,29.4
+131,Operating Profit (EBITDA),Financial Costs,false,2019,-214
+132,Operating Profit (EBITDA),Financial Income,false,2019,81.8
+133,Profit Before Income Taxes (EBIT),Profit Before Income Taxes (EBIT),true,2019,2090
+134,Profit Before Income Taxes (EBIT),EBIT Margin%,false,2019,0.09849999999999999
+135,Profit Before Income Taxes (EBIT),Income Tax Expenses ,false,2019,-280.8
+136,Net Income,Net Income,true,2019,1809.2
+137,Net Income,Net Income Margin,false,2019,0.08529999999999999
+138,Net Income,EPS,false,2019,1.3
+139,Net Income,EPS Growth,false,2019,-0.2045
+140,Revenues,Revenues,true,2020,NaN
+141,Revenues,Revenues from hotel operations,false,2020,2855.3
+142,Revenues,Revenues from food and beverage,false,2020,10037.5
+143,Revenues,Rental income,false,2020,14.3
+144,Revenues,Other Operating Income,false,2020,253.3
+145,Total Revenue,Total Revenue,true,2020,13160.4
+146,Total Revenue,Total Revenue Growth%,false,2020,-0.3795
+147,COGS,COGS,true,2020,NaN
+148,COGS,Cost of hotels operations,false,2020,-3212.8
+149,COGS,Cost of food and beverage,false,2020,-5623.8
+150,Total COGS,Total COGS,true,2020,-8836.6
+151,Total COGS,Gross Profit,false,2020,4323.8
+152,Total COGS,Gross Profit Margin%,false,2020,0.3285
+153,Total COGS,Selling Expenses,false,2020,-504.5
+154,Total COGS,Administrative Expenses,false,2020,-5326.7
+155,Total COGS,Other Operating Expenses,false,2020,-1224.8
+156,Operating Profit (EBITDA),Operating Profit (EBITDA),true,2020,-2732.2
+157,Operating Profit (EBITDA),Op. Margin%,false,2020,-0.2076
+158,Operating Profit (EBITDA),Investment Income (Loss) Under Equity Method,false,2020,-20.9
+159,Operating Profit (EBITDA),Financial Costs,false,2020,-668.7
+160,Operating Profit (EBITDA),Financial Income,false,2020,89.1
+161,Profit Before Income Taxes (EBIT),Profit Before Income Taxes (EBIT),true,2020,-3332.7
+162,Profit Before Income Taxes (EBIT),EBIT Margin%,false,2020,-0.2532
+163,Profit Before Income Taxes (EBIT),Income Tax Expenses ,false,2020,435.2
+164,Net Income,Net Income,true,2020,-2897.5
+165,Net Income,Net Income Margin,false,2020,-0.2202
+166,Net Income,EPS,false,2020,-2.1
+167,Net Income,EPS Growth,false,2020,-2.6014999999999997
+168,Revenues,Revenues,true,2021,NaN
+169,Revenues,Revenues from hotel operations,false,2021,2069.7
+170,Revenues,Revenues from food and beverage,false,2021,9127.2
+171,Revenues,Rental income,false,2021,14.3
+172,Revenues,Other Operating Income,false,2021,317.3
+173,Total Revenue,Total Revenue,true,2021,11528.5
+174,Total Revenue,Total Revenue Growth%,false,2021,-0.124
+175,COGS,COGS,true,2021,NaN
+176,COGS,Cost of hotels operations,false,2021,-2517.1
+177,COGS,Cost of food and beverage,false,2021,-5096.4
+178,Total COGS,Total COGS,true,2021,-7613.5
+179,Total COGS,Gross Profit,false,2021,3915
+180,Total COGS,Gross Profit Margin%,false,2021,0.3396
+181,Total COGS,Selling Expenses,false,2021,-449.6
+182,Total COGS,Administrative Expenses,false,2021,-4625.3
+183,Total COGS,Other Operating Expenses,false,2021,-
+184,Operating Profit (EBITDA),Operating Profit (EBITDA),true,2021,-1159.9
+185,Operating Profit (EBITDA),Op. Margin%,false,2021,-0.10060000000000001
+186,Operating Profit (EBITDA),Investment Income (Loss) Under Equity Method,false,2021,-64.1
+187,Operating Profit (EBITDA),Financial Costs,false,2021,-717.9
+188,Operating Profit (EBITDA),Financial Income,false,2021,106.9
+189,Profit Before Income Taxes (EBIT),Profit Before Income Taxes (EBIT),true,2021,-1835
+190,Profit Before Income Taxes (EBIT),EBIT Margin%,false,2021,-0.1592
+191,Profit Before Income Taxes (EBIT),Income Tax Expenses ,false,2021,77.5
+192,Net Income,Net Income,true,2021,-1757.5
+193,Net Income,Net Income Margin,false,2021,-0.1524
+194,Net Income,EPS,false,2021,-1.3
+195,Net Income,EPS Growth,false,2021,-0.3934
+196,Revenues,Revenues,true,2022,NaN
+197,Revenues,Revenues from hotel operations,false,2022,5935.1
+198,Revenues,Revenues from food and beverage,false,2022,11552.6
+199,Revenues,Rental income,false,2022,14.3
+200,Revenues,Other Operating Income,false,2022,534.3
+201,Total Revenue,Total Revenue,true,2022,18036.3
+202,Total Revenue,Total Revenue Growth%,false,2022,0.5645
+203,COGS,COGS,true,2022,NaN
+204,COGS,Cost of hotels operations,false,2022,-4279
+205,COGS,Cost of food and beverage,false,2022,-6214.8
+206,Total COGS,Total COGS,true,2022,-10493.8
+207,Total COGS,Gross Profit,false,2022,7542.5
+208,Total COGS,Gross Profit Margin%,false,2022,0.4182
+209,Total COGS,Selling Expenses,false,2022,-584
+210,Total COGS,Administrative Expenses,false,2022,-5815.9
+211,Total COGS,Other Operating Expenses,false,2022,-
+212,Operating Profit (EBITDA),Operating Profit (EBITDA),true,2022,1142.6
+213,Operating Profit (EBITDA),Op. Margin%,false,2022,0.0634
+214,Operating Profit (EBITDA),Investment Income (Loss) Under Equity Method,false,2022,-43.6
+215,Operating Profit (EBITDA),Financial Costs,false,2022,-726.3
+216,Operating Profit (EBITDA),Financial Income,false,2022,179.4
+217,Profit Before Income Taxes (EBIT),Profit Before Income Taxes (EBIT),true,2022,552.1
+218,Profit Before Income Taxes (EBIT),EBIT Margin%,false,2022,0.030600000000000002
+219,Profit Before Income Taxes (EBIT),Income Tax Expenses ,false,2022,-137.8
+220,Net Income,Net Income,true,2022,414.3
+221,Net Income,Net Income Margin,false,2022,0.023
+222,Net Income,EPS,false,2022,0.3
+223,Net Income,EPS Growth,false,2022,-1.2357
+224,Revenues,Revenues,true,2023,NaN
+225,Revenues,Revenues from hotel operations,false,2023,9078.2
+226,Revenues,Revenues from food and beverage,false,2023,12465.2
+227,Revenues,Rental income,false,2023,14.3
+228,Revenues,Other Operating Income,false,2023,703.7
+229,Total Revenue,Total Revenue,true,2023,22261.4
+230,Total Revenue,Total Revenue Growth%,false,2023,0.2343
+231,COGS,COGS,true,2023,NaN
+232,COGS,Cost of hotels operations,false,2023,-5953.7
+233,COGS,Cost of food and beverage,false,2023,-6929.2
+234,Total COGS,Total COGS,true,2023,-12882.9
+235,Total COGS,Gross Profit,false,2023,9378.5
+236,Total COGS,Gross Profit Margin%,false,2023,0.4213
+237,Total COGS,Selling Expenses,false,2023,-3508.7
+238,Total COGS,Administrative Expenses,false,2023,-3395.8
+239,Total COGS,Other Operating Expenses,false,2023,-
+240,Operating Profit (EBITDA),Operating Profit (EBITDA),true,2023,2474
+241,Operating Profit (EBITDA),Op. Margin%,false,2023,0.11109999999999999
+242,Operating Profit (EBITDA),Investment Income (Loss) Under Equity Method,false,2023,-62.2
+243,Operating Profit (EBITDA),Financial Costs,false,2023,-1007.2
+244,Operating Profit (EBITDA),Financial Income,false,2023,285.9
+245,Profit Before Income Taxes (EBIT),Profit Before Income Taxes (EBIT),true,2023,1690.5
+246,Profit Before Income Taxes (EBIT),EBIT Margin%,false,2023,0.0759
+247,Profit Before Income Taxes (EBIT),Income Tax Expenses ,false,2023,-434.2
+248,Net Income,Net Income,true,2023,1256.3
+249,Net Income,Net Income Margin,false,2023,0.0564
+250,Net Income,EPS,false,2023,0.9
+251,Net Income,EPS Growth,false,2023,2.0322999999999998
+252,Revenues,Revenues,true,2024,NaN
+253,Revenues,Revenues from hotel operations,false,2024,10116.1
+254,Revenues,Revenues from food and beverage,false,2024,12920.8
+255,Revenues,Rental income,false,2024,11.9
+256,Revenues,Other Operating Income,false,2024,900.7
+257,Total Revenue,Total Revenue,true,2024,23949.5
+258,Total Revenue,Total Revenue Growth%,false,2024,0.0758
+259,COGS,COGS,true,2024,NaN
+260,COGS,Cost of hotels operations,false,2024,-6351.4
+261,COGS,Cost of food and beverage,false,2024,-7073.1
+262,Total COGS,Total COGS,true,2024,-13424.5
+263,Total COGS,Gross Profit,false,2024,10525
+264,Total COGS,Gross Profit Margin%,false,2024,0.4395
+265,Total COGS,Selling Expenses,false,2024,-3660.4
+266,Total COGS,Administrative Expenses,false,2024,-4055.1
+267,Total COGS,Other Operating Expenses,false,2024,-
+268,Operating Profit (EBITDA),Operating Profit (EBITDA),true,2024,2809.5
+269,Operating Profit (EBITDA),Op. Margin%,false,2024,0.1173
+270,Operating Profit (EBITDA),Investment Income (Loss) Under Equity Method,false,2024,135.6
+271,Operating Profit (EBITDA),Financial Costs,false,2024,-1050.6
+272,Operating Profit (EBITDA),Financial Income,false,2024,289.8
+273,Profit Before Income Taxes (EBIT),Profit Before Income Taxes (EBIT),true,2024,2184.3
+274,Profit Before Income Taxes (EBIT),EBIT Margin%,false,2024,0.09119999999999999
+275,Profit Before Income Taxes (EBIT),Income Tax Expenses ,false,2024,-488.2
+276,Net Income,Net Income,true,2024,1696.1
+277,Net Income,Net Income Margin,false,2024,0.0708
+278,Net Income,EPS,false,2024,1.3
+279,Net Income,EPS Growth,false,2024,0.35009999999999997

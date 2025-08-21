@@ -1,0 +1,127 @@
+index,Category,Subcategory,IsParent,Year,Value
+0,Revenue,Revenue,true,2019,NaN
+1,Revenue,Sales,false,2019,1181.53
+2,Revenue,Total Revenue Growth%,false,2019,NaN
+3,COGS,COGS,true,2019,NaN
+4,COGS,COGS,false,2019,-408.37
+5,COGS,Gross Profit,false,2019,773.16
+6,COGS,Gross Profit Margin%,false,2019,0.6544
+7,COGS,Administrative Expenses,false,2019,-85.09
+8,COGS,Selling Expenses,false,2019,-557.57
+9,COGS,Other Income/Expenses,false,2019,1.05
+10,Operating Profit (EBITDA),Operating Profit (EBITDA),true,2019,131.56
+11,Operating Profit (EBITDA),Op. Margin%,false,2019,0.11130000000000001
+12,Operating Profit (EBITDA),Financial Income,false,2019,NaN
+13,Operating Profit (EBITDA),Financial Costs,false,2019,8.62
+14,Profit Before Income Tax (EBIT),Profit Before Income Tax (EBIT),true,2019,140.18
+15,Profit Before Income Tax (EBIT),EBIT Margin%,false,2019,0.1186
+16,Profit Before Income Tax (EBIT),Income Tax Expenses,false,2019,-27.61
+17,Net Income,Net Income,true,2019,112.57
+18,Net Income,Net Income Margin%,false,2019,0.0953
+19,Net Income,EPS,false,2019,375.22
+20,Net Income,EPS Margin%,false,2019,NaN
+21,Revenue,Revenue,true,2020,NaN
+22,Revenue,Sales,false,2020,818.93
+23,Revenue,Total Revenue Growth%,false,2020,-0.3069
+24,COGS,COGS,true,2020,NaN
+25,COGS,COGS,false,2020,-283.95
+26,COGS,Gross Profit,false,2020,534.99
+27,COGS,Gross Profit Margin%,false,2020,0.6533
+28,COGS,Administrative Expenses,false,2020,-69.92
+29,COGS,Selling Expenses,false,2020,-426.67
+30,COGS,Other Income/Expenses,false,2020,0.61
+31,Operating Profit (EBITDA),Operating Profit (EBITDA),true,2020,39.0
+32,Operating Profit (EBITDA),Op. Margin%,false,2020,0.047599999999999996
+33,Operating Profit (EBITDA),Financial Income,false,2020,NaN
+34,Operating Profit (EBITDA),Financial Costs,false,2020,-9.03
+35,Profit Before Income Tax (EBIT),Profit Before Income Tax (EBIT),true,2020,29.98
+36,Profit Before Income Tax (EBIT),EBIT Margin%,false,2020,0.0366
+37,Profit Before Income Tax (EBIT),Income Tax Expenses,false,2020,-7.86
+38,Net Income,Net Income,true,2020,22.12
+39,Net Income,Net Income Margin%,false,2020,0.027000000000000003
+40,Net Income,EPS,false,2020,73.73
+41,Net Income,EPS Margin%,false,2020,-0.8035
+42,Revenue,Revenue,true,2021,NaN
+43,Revenue,Sales,false,2021,803.79
+44,Revenue,Total Revenue Growth%,false,2021,-0.018500000000000003
+45,COGS,COGS,true,2021,NaN
+46,COGS,COGS,false,2021,-344.06
+47,COGS,Gross Profit,false,2021,459.73
+48,COGS,Gross Profit Margin%,false,2021,0.5719
+49,COGS,Administrative Expenses,false,2021,-64.5
+50,COGS,Selling Expenses,false,2021,-385.07
+51,COGS,Other Income/Expenses,false,2021,2.98
+52,Operating Profit (EBITDA),Operating Profit (EBITDA),true,2021,13.13
+53,Operating Profit (EBITDA),Op. Margin%,false,2021,0.0163
+54,Operating Profit (EBITDA),Financial Income,false,2021,NaN
+55,Operating Profit (EBITDA),Financial Costs,false,2021,-7.61
+56,Profit Before Income Tax (EBIT),Profit Before Income Tax (EBIT),true,2021,5.52
+57,Profit Before Income Tax (EBIT),EBIT Margin%,false,2021,0.0069
+58,Profit Before Income Tax (EBIT),Income Tax Expenses,false,2021,-1.7
+59,Net Income,Net Income,true,2021,3.81
+60,Net Income,Net Income Margin%,false,2021,0.004699999999999999
+61,Net Income,EPS,false,2021,12.72
+62,Net Income,EPS Margin%,false,2021,-0.8275
+63,Revenue,Revenue,true,2022,NaN
+64,Revenue,Sales,false,2022,1457.62
+65,Revenue,Total Revenue Growth%,false,2022,0.8134
+66,COGS,COGS,true,2022,NaN
+67,COGS,COGS,false,2022,-515.07
+68,COGS,Gross Profit,false,2022,942.55
+69,COGS,Gross Profit Margin%,false,2022,0.6466
+70,COGS,Administrative Expenses,false,2022,-98.28
+71,COGS,Selling Expenses,false,2022,-579.32
+72,COGS,Other Income/Expenses,false,2022,28.5
+73,Operating Profit (EBITDA),Operating Profit (EBITDA),true,2022,293.46
+74,Operating Profit (EBITDA),Op. Margin%,false,2022,0.20129999999999998
+75,Operating Profit (EBITDA),Financial Income,false,2022,2.02
+76,Operating Profit (EBITDA),Financial Costs,false,2022,-23.64
+77,Profit Before Income Tax (EBIT),Profit Before Income Tax (EBIT),true,2022,271.84
+78,Profit Before Income Tax (EBIT),EBIT Margin%,false,2022,0.1865
+79,Profit Before Income Tax (EBIT),Income Tax Expenses,false,2022,-55.25
+80,Net Income,Net Income,true,2022,216.59
+81,Net Income,Net Income Margin%,false,2022,0.14859999999999998
+82,Net Income,EPS,false,2022,721.97
+83,Net Income,EPS Margin%,false,2022,55.7742
+84,Revenue,Revenue,true,2023,NaN
+85,Revenue,Sales,false,2023,2473.94
+86,Revenue,Total Revenue Growth%,false,2023,0.6972
+87,COGS,COGS,true,2023,NaN
+88,COGS,COGS,false,2023,-1081.06
+89,COGS,Gross Profit,false,2023,1392.88
+90,COGS,Gross Profit Margin%,false,2023,0.563
+91,COGS,Administrative Expenses,false,2023,-132.41
+92,COGS,Selling Expenses,false,2023,-661.88
+93,COGS,Other Income/Expenses,false,2023,23.48
+94,Operating Profit (EBITDA),Operating Profit (EBITDA),true,2023,622.07
+95,Operating Profit (EBITDA),Op. Margin%,false,2023,0.2515
+96,Operating Profit (EBITDA),Financial Income,false,2023,3.64
+97,Operating Profit (EBITDA),Financial Costs,false,2023,-22.58
+98,Profit Before Income Tax (EBIT),Profit Before Income Tax (EBIT),true,2023,603.13
+99,Profit Before Income Tax (EBIT),EBIT Margin%,false,2023,0.2438
+100,Profit Before Income Tax (EBIT),Income Tax Expenses,false,2023,-121.07
+101,Net Income,Net Income,true,2023,482.06
+102,Net Income,Net Income Margin%,false,2023,0.1949
+103,Net Income,EPS,false,2023,1606.86
+104,Net Income,EPS Margin%,false,2023,1.2257
+105,Revenue,Revenue,true,2024,NaN
+106,Revenue,Sales,false,2024,3161.93
+107,Revenue,Total Revenue Growth%,false,2024,0.2781
+108,COGS,COGS,true,2024,NaN
+109,COGS,COGS,false,2024,-1333.64
+110,COGS,Gross Profit,false,2024,1828.29
+111,COGS,Gross Profit Margin%,false,2024,0.5782
+112,COGS,Administrative Expenses,false,2024,-167.32
+113,COGS,Selling Expenses,false,2024,-930.06
+114,COGS,Other Income/Expenses,false,2024,27.36
+115,Operating Profit (EBITDA),Operating Profit (EBITDA),true,2024,758.27
+116,Operating Profit (EBITDA),Op. Margin%,false,2024,0.2398
+117,Operating Profit (EBITDA),Financial Income,false,2024,5.45
+118,Operating Profit (EBITDA),Financial Costs,false,2024,-29.95
+119,Profit Before Income Tax (EBIT),Profit Before Income Tax (EBIT),true,2024,733.77
+120,Profit Before Income Tax (EBIT),EBIT Margin%,false,2024,0.2321
+121,Profit Before Income Tax (EBIT),Income Tax Expenses,false,2024,-152.22
+122,Net Income,Net Income,true,2024,581.54
+123,Net Income,Net Income Margin%,false,2024,0.1839
+124,Net Income,EPS,false,2024,1938.48
+125,Net Income,EPS Margin%,false,2024,0.2064
