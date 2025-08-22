@@ -5,3 +5,4 @@ openpyxl
 langchain
 langchain-openai
 python-dotenv
+kaleido==0.2.1
