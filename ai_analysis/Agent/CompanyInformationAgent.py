@@ -166,8 +166,8 @@ Guidelines:
 - Output must be valid JSON that can be parsed without errors.
 
 User data:
-Company name: {{company_name}}
-Description: {{company_description}}
+Company name: {company_name}
+Description: {company_description}
        
         """
         
@@ -229,10 +229,15 @@ Description: {{company_description}}
   "industry": "Foods / Hotels",
   "website": "https://www.centarahotelsresorts.com",
   "financials": {
-    "revenue": "X THB",
-    "ebitda": "Y THB",
-    "cash": "Z THB",
-    "debtCapacity": "Approx value"
+    "paid-up": "1,350.00 MM THB",
+    "price" : "28.75 THB",
+    "marketCap": "38,812.50 MM THB",
+    "52weekHighLow": "41.25 / 19.40",
+    "EV": "76,504.34 MM THB",
+    "EBITDA": "3,447.33 MM THB",
+    "EV/EBITDA" : "11/40",
+    "P/E(x)": "22.99",
+    "P/BV(x)": "1.81"
   },
   "strategy": {
     "vision": "Leading Asian hospitality brand",

@@ -1,10 +1,12 @@
 import base64
 import os
+import kaleido
 import plotly.io as pio
 import requests
 
 
 convert_api_key = os.getenv("CONVERT_API_KEY")
+
 
 class ReportGenerator:
 
@@ -140,7 +142,7 @@ class ReportGenerator:
         html += self.var
         
         
-        if self.chart_plan != "[]":
+        if len(self.chart) > 0:
           #wrapping charts
           img_tags = "".join(self._fig_to_base64_img(fig) for fig in self.chart)
           html += f'''

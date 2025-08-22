@@ -1,6 +1,7 @@
 import os
 import re
 import time
+from dotenv import load_dotenv
 import pandas as pd
 import streamlit as st
 import json
@@ -17,7 +18,12 @@ from ai_visualization.chart_generator import get_charts_analysis, get_charts_fig
 from ai_visualization.data_loader import load_company_data
 from ai_visualization.llm_agent import analyze_two_companies
 
+# load_dotenv()
+
 api_key = os.getenv("OPEN_API_KEY")
+
+
+
 
 
 st.set_page_config(
